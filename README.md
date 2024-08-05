@@ -6,8 +6,11 @@ This repository serves as a learning journal and showcase of my progress in mast
 
 ## How to Use
 Clone this repository: git clone https://github.com/Rupayan20/React-Learn
+
 Navigate to the project directory: cd project-directory
+
 Install dependencies: npm install
+
 Start the development server: npm start
 
 ## Contact
