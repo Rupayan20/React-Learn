@@ -5,7 +5,7 @@ Welcome to my GitHub repository for learning React! Here, you'll find a collecti
 This repository serves as a learning journal and showcase of my progress in mastering React. Each project and concept is an integral part of my journey to becoming proficient in building modern web applications with React.
 
 ## How to Use
-Clone this repository: git clone https://github.com/yourusername/repositoryname.git
+Clone this repository: git clone https://github.com/Rupayan20/React-Learn
 Navigate to the project directory: cd project-directory
 Install dependencies: npm install
 Start the development server: npm start
