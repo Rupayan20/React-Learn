@@ -1,4 +1,4 @@
-# React Projects and Concepts
+# React Projects
 Welcome to my GitHub repository for learning React! Here, you'll find a collection of projects and concepts that I've been working on as I dive into the world of React development.
 
 ## About
